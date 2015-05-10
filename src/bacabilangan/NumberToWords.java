@@ -428,5 +428,5 @@ public class NumberToWords {
 }
 
 /*
-	Source : http://stackoverflow.com/questions/3911966/how-to-convert-number-to-words-in-java
+	
 */

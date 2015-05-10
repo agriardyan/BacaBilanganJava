@@ -8,8 +8,14 @@ import java.util.List;
  *
  * For units, see : http://www.jimloy.com/math/miliar.htm
  *
- * @author yanick.rochon@gmail.com
+ * 
+ * @author yanick.rochon@gmail.com 
+ * Originalnya untuk pembacaan dalam bhs Inggris, see :
+ * Source : http://stackoverflow.com/questions/3911966/how-to-convert-number-to-words-in-java
+ * 
  * @author agriardyan <aagriard@gmail.com>
+ * Modifikasi untuk bahasa Indonesia
+ *
  */
 public class BilanganKeHuruf {
 

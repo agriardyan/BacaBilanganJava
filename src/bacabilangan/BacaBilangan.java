@@ -6,8 +6,12 @@
 package bacabilangan;
 
 /**
- * @author yanick.rochon@gmail.com [original author]
+ * @author yanick.rochon@gmail.com 
+ * Originalnya untuk pembacaan dalam bhs Inggris, see :
+ * Source : http://stackoverflow.com/questions/3911966/how-to-convert-number-to-words-in-java
+ * 
  * @author agriardyan <aagriard@gmail.com>
+ * Modifikasi untuk bahasa Indonesia
  */
 public class BacaBilangan {
 
